@@ -1,6 +1,6 @@
 # Molecular Solubility Prediction
 
-I dipped an Oreo in milk and it came out soggy. 
+I dipped an Oreo in milk and it came out soggy, left it in longer and it became an Oreo milkshake. 
 
 ## Question
 
