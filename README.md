@@ -1,6 +1,6 @@
 # Molecular Solubility Prediction
 
-I dipped an Oreo in milk and it came out soggy, left it in longer and it became an Oreo milkshake. 
+Why my ice cream not dissolve in milk
 
 ## Question
 
