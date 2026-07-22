@@ -1,7 +1,3 @@
 # Molecular Solubility Prediction
 
-Why my ice cream not dissolve in milk
-
-## Question
-
-Can molecular structure descriptors predict aqueous solubility, and which molecular features matter most chemically?
+Which descriptor families matter most, which molecular classes fail most often, and how does reliability decline for molecules unlike the training data?
