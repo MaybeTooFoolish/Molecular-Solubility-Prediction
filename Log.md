@@ -12,7 +12,7 @@ Began development in Google Colab.
 
 After exploring available datasets, I selected the Delaney (ESOL) dataset because it provides experimentally measured aqueous solubilities together with molecular structures represented as SMILES strings.
 
-I chose RDKit to generate molecular descriptors and used AI as a programming assistant to accelerate environment setup, imports, and exploration of possible descriptor sets. The scientific design decisions—including descriptor selection, model comparison, and evaluation strategy—were made during the project's development.
+I chose RDKit to generate molecular descriptors and used AI as a programming assistant to accelerate environment setup, imports, and exploration of possible descriptor sets. The scientific design decisions including descriptor selection, model comparison, and evaluation strategy were made during the project's development.
 
 ## July 3, 2026
 
